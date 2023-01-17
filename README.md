@@ -1,1 +1,2 @@
 # Air-Canvas
+In this Project, I have made an Air Canvas that can draw anything as per the movement of my hand. In this, I have used Mediapipe library for hand detection and landmark. Further, we have created two windows of which first is the real time webcam based that detects the movements of the hand which can draw and an other window of white color that dipicts the output of what we do in the webcam window. I have created four buttons which consists of three color buttons and one clear button which clears the drawings. 
